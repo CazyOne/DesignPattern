@@ -1,0 +1,2 @@
+Singleton Pattern is a creational Pattern,
+it ensure there is only a instance for a class, and it provide A global access point to access the instance.

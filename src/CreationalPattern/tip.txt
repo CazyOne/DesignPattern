@@ -1,0 +1,3 @@
+These design patterns provide a way to hide the creation logic while creating an object,
+rather than instantiating the object directly with the new operator.
+This gives the program more flexibility in determining which objects need to be created for a given instance.

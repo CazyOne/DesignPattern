@@ -1,0 +1,9 @@
+Factory Pattern is the most common design pattern of design pattern.
+It provides a method to create object and not need to create concrete class.
+3 types of Factory Pattern:
+1.Simple Factory Pattern
+ is not a formal design pattern, but is the base of factory pattern
+2.Factory Method Pattern
+ define a interface of creating object, but not implement it
+3.Abstract Factory Pattern
+ provides a series of interface
